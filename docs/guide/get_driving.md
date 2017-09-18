@@ -93,6 +93,7 @@ python manage.py drive
 
 
 ### Joystick Controls
+To connect joystick use this great [Piborg guide](https://www.piborg.org/rpi-ps3-help)
 
 * left analog stick left and right to adjust steering
 * right analog stick forward to increase forward throttle
