@@ -39,7 +39,7 @@ These same instructions can be found in this [Make Magazine article](https://mak
 | Wide Angle Raspberry Pi Camera                                                      | [amazon.com/gp/product/B00N1YJKFS](https://www.amazon.com/gp/product/B00N1YJKFS?tag=donkeycar-20)                                         | $25              |
 | Female to Female Jumper Wire                                                        | [amazon.com/gp/product/B010L30SE8](https://www.amazon.com/gp/product/B010L30SE8?tag=donkeycar-20)                                          | $7 *             |
 | Servo Driver PCA 9685                                                               | [amazon.com/gp/product/B014KTSMLA](https://www.amazon.com/gp/product/B014KTSMLA?tag=donkeycar-20)                                          | $12 **           |
-| 3D Printed roll cage and top plate.                                                 | Purchase: [Adam's Store](https://squareup.com/store/donkeycarSTL) Files: [thingiverse.com/thing:2260575](http://www.thingiverse.com/thing:2260575) | $45 ***                |
+| 3D Printed roll cage and top plate.                                                 | Purchase: [Adam's Store](https://squareup.com/store/donkeycar) Files: [thingiverse.com/thing:2260575](http://www.thingiverse.com/thing:2260575) | $45 ***                |
 
 
 
